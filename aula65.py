@@ -1,3 +1,5 @@
+
+
 """
 Introdução às funções (def) em Python
 Funções são trechos de código usados para 
